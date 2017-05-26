@@ -1,0 +1,36 @@
+* {
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: gray;
+  padding: 5px 0px 0px 5px;
+}
+
+.img-responsive {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.col-md-4 {
+  padding:0px !important;
+  position: relative;
+}
+
+ul.row {
+  padding:0px !important;
+  margin:0px;
+  list-style: none;
+  text-align: center;
+}
+
+.jumbotron ul li {
+  display: inline-block;
+  list-style: none;
+  padding-right: 10px;
+  font-size: 1.5em;
+}
+
+.jumbotron {
+  text-align: center;
+}
